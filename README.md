@@ -31,3 +31,10 @@ This Decentralized  Application (DApp) demonstrates a platform for individuals t
 - Decentralization: The platform operates without a central authority, giving users complete control over their campaigns and funds.
 - Trust: The smart contract logic guarantees that funds are handled according to the campaign's rules, building trust among donors and campaign owners.
 
+
+***
+
+![screenshot1](screenshots/screenshot1.png)
+![screenshot2](screenshots/screenshot2.png)
+
+
